@@ -25,6 +25,6 @@
 ├── index.html       
 ├── style.css        
 ├── app.js           
-└── icons/           
+└── icons           
     └── trash.svg
-    └── checkmark.svg
+         └── checkmark.svg
